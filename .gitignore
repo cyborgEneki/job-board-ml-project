@@ -1,2 +1,4 @@
 /.ipynb_checkpoints/*
 *.csv
+/data/backup
+/data/work_in_progress
